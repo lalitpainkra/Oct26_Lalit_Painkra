@@ -1,0 +1,5 @@
+2 hr - aws revision
+1 hr - terraform code revision
+
+what to do next?
+be consistence
